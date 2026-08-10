@@ -1,2 +1,2 @@
 # apnacollege-demo1
-This is my econd Git Repositery
+This is my Second Git Repositery
